@@ -310,6 +310,15 @@ nav .navlinks li a:hover {
 .portfolio-info .btn:hover {
   background: #005fb0;
 }
+.project-tag {
+  font-size: 12px;
+  background-color: #007bff;
+  color: #fff;
+  padding: 2px 6px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
 /* Services Section */
 .services-section {
   width: 100%;
